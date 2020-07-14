@@ -3,6 +3,8 @@ The given assignment was to create a weather dashboard utilizing the openweather
 
 Users are presnted with the city name, the date, an icon representation of weather conditions, the temperature, the humidity, the wind speed, and the UV index. UV index will change color depending on the levels. Green is favorable, yellow is moderate, and orange is severe. 
 
+Link here: https://cmfuertes.github.io/Weather-Dashboard/
+
 The following images display screenshots for the completed project.
 Blank Page
 ![Screenshot1](./assets/Screenshot1.png)
